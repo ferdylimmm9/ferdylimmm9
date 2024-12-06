@@ -15,6 +15,11 @@
 ---
 
 ### More About Me  
+I've been a **Frontend Engineer** for almost two years, specializing in:  
+- **Technologies**: HTML, CSS, JavaScript, TypeScript, ReactJS, React Native  
+- **Frameworks & Libraries**: Next.js, React Hook Form, React Query, Expo  
+- **Strengths**: Building performant and responsive web and mobile applications  
+
 ⚡ **Fun Fact:** I enjoy going to the gym, playing basketball, badminton, and futsal.  
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/ferdylimmm9) | [Twitter](https://twitter.com/ferdylimm2)  
 
