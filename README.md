@@ -21,7 +21,7 @@ I've been a **Frontend Engineer** for almost two years, specializing in:
 - **Strengths**: Building performant and responsive web and mobile applications  
 
 ⚡ **Fun Fact:** I enjoy going to the gym, playing basketball, badminton, and futsal.  
-📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/ferdylimmm9) | [Twitter](https://twitter.com/ferdylimm2)  
+📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/ferdylimm9) | [Twitter](https://twitter.com/ferdylimm2)  
 
 ---
 
